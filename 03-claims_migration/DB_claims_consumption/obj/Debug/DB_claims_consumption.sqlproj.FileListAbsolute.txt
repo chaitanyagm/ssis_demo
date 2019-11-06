@@ -1,0 +1,9 @@
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_consumption\bin\Debug\DB_claims_consumption.dacpac
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_consumption\bin\Debug\DB_claims_consumption.dll
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_consumption\bin\Debug\DB_claims_consumption.pdb
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_consumption\obj\Debug\Model.xml
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_consumption\obj\Debug\refactor.xml
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_consumption\obj\Debug\postdeploy.sql
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_consumption\obj\Debug\predeploy.sql
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_consumption\obj\Debug\DB_claims_consumption.dll
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_consumption\obj\Debug\DB_claims_consumption.pdb

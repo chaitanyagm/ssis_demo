@@ -1,0 +1,10 @@
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\bin\Debug\DB_Claims_RAW.dacpac
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\bin\Debug\DB.dll
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\bin\Debug\DB.pdb
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\obj\Debug\DB_Claims_RAW.sqlprojAssemblyReference.cache
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\obj\Debug\Model.xml
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\obj\Debug\refactor.xml
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\obj\Debug\postdeploy.sql
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\obj\Debug\predeploy.sql
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\obj\Debug\DB.dll
+C:\Users\bhuang\source\repos\ssis_demo\03-claims_migration\DB_claims_raw\obj\Debug\DB.pdb
